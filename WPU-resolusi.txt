@@ -1,0 +1,8 @@
+WPU RESOLUSI
+- dasar javascript
+- HTML  dasar
+- CSS dasar
+- CSS layouting
+- CSS 3
+- Javascript Document object model
+- javascript lanjutan
