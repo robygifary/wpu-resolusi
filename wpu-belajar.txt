@@ -1,0 +1,6 @@
+RENCANA BELAJAR PEMOGRAMAN
+- java
+- javascript
+- javascript lanjutan
+- node.js
+- reactnative
