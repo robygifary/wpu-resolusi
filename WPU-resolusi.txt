@@ -6,3 +6,5 @@ WPU RESOLUSI
 - CSS 3
 - Javascript Document object model
 - javascript lanjutan
+- PHP Pemula
+- OPP PHP
