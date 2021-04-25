@@ -8,4 +8,5 @@ WPU RESOLUSI
 - javascript lanjutan
 - OPP PHP
 - PHP MVC
+- laravel
 - python
